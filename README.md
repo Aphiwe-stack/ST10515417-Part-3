@@ -10,7 +10,7 @@ ST10515417
 
 WEDE5020 POE  
 
-PART 1 
+PART 3
 
        TABLE OF CONTENT 
 
@@ -164,7 +164,7 @@ Purpose of the business
 
  
 
-Programs page: 
+Get involved page: 
 
 Services we offer 
 
